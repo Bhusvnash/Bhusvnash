@@ -33,6 +33,7 @@ Aplicación de escritorio en C# (Windows Forms) con backend en MySQL/MariaDB, de
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## 🔗 Follow me
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhusvnash)
