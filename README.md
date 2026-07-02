@@ -1,4 +1,4 @@
-# Hi, I'm Bhusvnash! 👋
+# Hi, I'm Bhusvnash! 
 ### 🎓 Estudiante de Análisis y Desarrollo de Software (ADSO) - SENA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhusvnash&show_icons=true&theme=tokyonight&hide_border=true)
